@@ -1,14 +1,3 @@
-AWS Projects
-Welcome to the AWS Projects repository! Here you will find various projects utilizing AWS services for different applications.
+This repository provides a comprehensive setup for building a REST API with CRUD operations using AWS Lambda, API Gateway, and DynamoDB. 
 
-Current Project
-Build a REST API (CRUD) with AWS Lambda, API Gateway & DynamoDB Using Python
-This project demonstrates how to create a RESTful API using AWS Lambda for serverless computing, API Gateway for endpoint management, and DynamoDB for data storage. The implementation is done in Python.
-
-Documentation: Build a REST API (CRUD) with AWS Lambda, API Gateway & DynamoDB Using Python
-Lambda Function Script: lambda_function.py
-More Projects Coming Soon
-Stay tuned! We are actively working on more AWS projects that will be added to this repository soon.
-
-Getting Started
-To get started with the current project, refer to the PDF guide and the Lambda function script provided in this repository. Follow the instructions in the guide to set up and deploy the REST API.
+It is structured into two main parts: setting up the infrastructure and executing CRUD operations.
